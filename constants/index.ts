@@ -25,6 +25,11 @@ export const sidebarLinks = [
     route: '/personal-room',
     label: 'Personal Room',
   },
+  {
+    imgURL: 'https://cypress-online-shared-workspace.vercel.app/_next/static/media/cypresslogo.ab70973a.svg',
+    route: 'https://cypress-online-shared-workspace.vercel.app/dashboard/',
+    label: 'Open Notes',
+  }
 ];
 
 export const avatarImages = [
